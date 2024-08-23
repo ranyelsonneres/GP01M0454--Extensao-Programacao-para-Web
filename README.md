@@ -1,1 +1,1 @@
-Turma: GP01M0454 - Programação para Web
+Turma: GP01M0454 - Extensão Programação para Web
