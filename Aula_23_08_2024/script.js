@@ -1,16 +1,16 @@
 //mensagens para o usuário
 console.log("Aula 23/08/2024");
-//alert("Olá mundo!");
+alert("Olá mundo!");
 document.write("Escrevendo no HTML" + "<br>");
 
 //Comparação
-// let num1 = parseFloat(prompt("Digite um número: "));
-// let num2 = parseFloat(prompt("Digite um segundo número: "));
+let num1 = parseFloat(prompt("Digite um número: "));
+let num2 = parseFloat(prompt("Digite um segundo número: "));
 
-// document.write("Comparação de dois valores: " + (num1 === num2) + "<br>");
-// document.write("Comparação de dois valores: " + (num1 !== num2) + "<br>");
+document.write("Comparação de dois valores: " + (num1 === num2) + "<br>");
+document.write("Comparação de dois valores: " + (num1 !== num2) + "<br>");
 
-//document.write(`Comparação de dois valores: ${num1}` + (num1 === num2) + "<br>");
+document.write(`Comparação de dois valores: ${num1}` + (num1 === num2) + "<br>");
 
 //Estrutura de controle
 let interruptor = "off";
