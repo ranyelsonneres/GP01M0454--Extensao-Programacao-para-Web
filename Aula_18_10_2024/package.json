@@ -1,0 +1,14 @@
+{
+  "name": "aula_18_10_2024",
+  "version": "1.0.0",
+  "description": "Servindo arquivos estáticos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Programacao=WEB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
